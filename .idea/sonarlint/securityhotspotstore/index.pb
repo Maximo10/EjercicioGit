@@ -14,3 +14,5 @@ Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b3681
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 @
 PruebaGithub.iml,f\6\f6e9ae45db34a5ef61ecca29bad63659660ca199
+@
+src/Usuario.java,8\5\85ef3e0e7b79cfdcca6d2c3e3a3af9715ef79ff4
